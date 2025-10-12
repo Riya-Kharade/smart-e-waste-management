@@ -51,13 +51,10 @@ Ecobin/
 ├─ docs/
 │   ├─ recycling_guide.pdf
 │   └─ price_list.pdf
-├─ css/
-│   └─ style.css
-├─ js/
-│   └─ script.js
 ├─ images/
 └─ README.md
 ```
+More files are there..
 
 ### How to Run
 1. Clone the repository: 
