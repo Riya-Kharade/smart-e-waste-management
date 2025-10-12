@@ -62,7 +62,7 @@ Ecobin/
 ### How to Run
 1. Clone the repository: 
 ```bash
-git clone https://github.com/riyakharade/ecobin.git
+git clone https://github.com/riya-kharade/smart-e-waste-management.git
 ```
 2. Import the database `ecobin.sql` in phpMyAdmin.
 3. Configure `db.php` with your database credentials.
@@ -70,11 +70,14 @@ git clone https://github.com/riyakharade/ecobin.git
 5. Open `index.php` in your browser.
 
 ### Demo
-You can showcase the project with screenshots and/or a demo video highlighting:
-- Customer signup and scheduling pickups
-- Kabadiwala dashboard and status updates
-- Admin dashboard management
-- Fun zone games and blog section
+
+<img width="1897" height="906" alt="Screenshot 2025-10-12 142111" src="https://github.com/user-attachments/assets/a65697c8-0831-4b3e-befe-cab22fed81b9" />
+<img width="1912" height="856" alt="Screenshot 2025-10-12 142159" src="https://github.com/user-attachments/assets/7b1dd943-1046-4173-af73-444232c1731d" />
+<img width="1898" height="902" alt="Screenshot 2025-10-12 142237" src="https://github.com/user-attachments/assets/40195c2a-f380-499a-b08f-3951ca26d9d7" />
+<img width="1897" height="905" alt="Screenshot 2025-10-12 142224" src="https://github.com/user-attachments/assets/709a2003-f478-42ec-ad95-1b8f922717be" />
+<img width="1615" height="872" alt="Screenshot 2025-10-12 142126" src="https://github.com/user-attachments/assets/97af1ce9-4756-41c1-9a36-32d3642b8df7" />
+
+
 
 ### Credits
 - Developed under **E-Waste subject** guidance by **Nilima Main Mam**.
