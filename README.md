@@ -54,7 +54,7 @@ Ecobin/
 ├─ images/
 └─ README.md
 ```
-More files are there..
+More files are there...
 
 ### How to Run
 1. Clone the repository: 
