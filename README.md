@@ -77,7 +77,7 @@ git clone https://github.com/riya-kharade/smart-e-waste-management.git
 
 
 ### Credits
-- Developed under **E-Waste subject** guidance by **Nilima Main Mam**.
+- Riya Sunil Kharade.
 - Portfolio: [Riya Kharade](https://riyakharade-portfolio.netlify.app/)
 
 ### License
